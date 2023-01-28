@@ -3,12 +3,11 @@
 
 #### 💬 Ask me about anything related to computer science or software engineering.
 ---
-
+[![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IinjyI&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
