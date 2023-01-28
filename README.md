@@ -1,6 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
 <h1 align="center">Hi there 👋, I'm Injy</h1>
 
-[![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 Innovative computer science student possessing problem solving and mathematical skills along with a keen interest in artificial intelligence and cyber security.
