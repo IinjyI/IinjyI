@@ -1,6 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
 
 
+
 <h1 align="center">Hi there 👋, I'm Injy</h1>
 
 
@@ -9,6 +10,8 @@ Innovative computer science student possessing problem solving and mathematical 
 <br><br>💬 Ask me about anything related to computer science or software engineering.
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IinjyI&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
@@ -25,10 +28,3 @@ Innovative computer science student possessing problem solving and mathematical 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IinjyI&theme=prussian&hide_border=true)<br/>
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
