@@ -1,6 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Injy</h1>
-
-
 # 💫 About Me:
 ### Innovative computer science student possessing problem solving and mathematical skills along with a keen interest in artificial intelligence and cyber security.
 
