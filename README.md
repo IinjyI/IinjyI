@@ -2,6 +2,7 @@
 ### Innovative computer science student possessing problem solving and mathematical skills along with a keen interest in artificial intelligence and cyber security.
 
 #### 💬 Ask me about anything related to computer science or software engineering.
+#### [🔗my resume](https://www.dropbox.com/s/otgkfc8gaisc562/Injy_ElSherbini_Resume.pdf?dl=0)
 ---
 [![](https://visitcount.itsvg.in/api?id=IinjyI&icon=6&color=1)](https://visitcount.itsvg.in)
 
